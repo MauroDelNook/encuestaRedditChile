@@ -8,5 +8,5 @@
 
 Se generan modelos que logren predecir si un usuario del sitio tiene tendencias políticas de izquierda:
 
-- Regresión logística: (https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_logistic.md)
+- [Regresión logística](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_logistic.md).
 
