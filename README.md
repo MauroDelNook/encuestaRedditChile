@@ -10,8 +10,11 @@ Se generan modelos que logren predecir si un usuario del sitio tiene tendencias 
 
 - [Regresión logística](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_logistic.ipynb).
 - [Árbol de Decisión](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_decision_tree.ipynb).
+- [Random Forest](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_rf.ipynb).
 - [AdaBoost](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_adaBoost.ipynb).
 - [LightGBM](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_LGBM.ipynb).
 - [CatBoost](https://github.com/MauroDelNook/encuestaRedditChile/blob/main/encuesta_catBoost.ipynb).
+
+
 
 
